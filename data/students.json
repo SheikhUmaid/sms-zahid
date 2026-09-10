@@ -1,0 +1,79 @@
+[
+  {
+    "id": "std-1788977042044-jzmvt",
+    "name": "Cleo Patrick",
+    "usn": "2SD23IS048",
+    "department": "Information Science & Engineering",
+    "semester": 3,
+    "email": "jusyxyp@mailinator.com",
+    "phone": "+1 (575) 883-5093",
+    "createdAt": "2026-09-09T18:04:02.044Z",
+    "updatedAt": "2026-09-09T18:04:02.044Z"
+  },
+  {
+    "id": "std-1",
+    "name": "Aaditya Sharma",
+    "usn": "1MS23CS001",
+    "department": "Computer Science & Engineering",
+    "semester": 5,
+    "email": "aaditya.sharma@example.com",
+    "phone": "+91 9876543210",
+    "createdAt": "2025-08-15T09:30:00.000Z",
+    "updatedAt": "2025-08-15T09:30:00.000Z"
+  },
+  {
+    "id": "std-2",
+    "name": "Ananya Rao",
+    "usn": "1MS23IS015",
+    "department": "Information Science & Engineering",
+    "semester": 5,
+    "email": "ananya.rao@example.com",
+    "phone": "+91 9876543211",
+    "createdAt": "2025-08-16T10:15:00.000Z",
+    "updatedAt": "2025-08-16T10:15:00.000Z"
+  },
+  {
+    "id": "std-3",
+    "name": "Rohan Verma",
+    "usn": "1MS22EC042",
+    "department": "Electronics & Communication",
+    "semester": 7,
+    "email": "rohan.verma@example.com",
+    "phone": "+91 9876543212",
+    "createdAt": "2025-08-17T11:00:00.000Z",
+    "updatedAt": "2025-08-17T11:00:00.000Z"
+  },
+  {
+    "id": "std-4",
+    "name": "Priya Patel",
+    "usn": "1MS24AI008",
+    "department": "Artificial Intelligence & Data Science",
+    "semester": 3,
+    "email": "priya.patel@example.com",
+    "phone": "+91 9876543213",
+    "createdAt": "2025-08-18T14:20:00.000Z",
+    "updatedAt": "2025-08-18T14:20:00.000Z"
+  },
+  {
+    "id": "std-5",
+    "name": "Vikrant Singh",
+    "usn": "1MS23ME020",
+    "department": "Mechanical Engineering",
+    "semester": 5,
+    "email": "vikrant.singh@example.com",
+    "phone": "+91 9876543214",
+    "createdAt": "2025-08-19T16:45:00.000Z",
+    "updatedAt": "2025-08-19T16:45:00.000Z"
+  },
+  {
+    "id": "std-6",
+    "name": "Sneha Kulkarni",
+    "usn": "1MS24CV011",
+    "department": "Civil Engineering",
+    "semester": 1,
+    "email": "sneha.kulkarni@example.com",
+    "phone": "+91 9876543215",
+    "createdAt": "2025-08-20T08:00:00.000Z",
+    "updatedAt": "2025-08-20T08:00:00.000Z"
+  }
+]
